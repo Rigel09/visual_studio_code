@@ -41,7 +41,7 @@ function M.get_highlight(conf, colors)
 		["@function.call"] = { fg = colors.__vscode_methods },
 		["@function.builtin"] = { fg = colors.__vscode_type },
 		["@function.macro"] = { fg = colors.__vscode_variable },
-		["@parameter"] = { fg = colors.__vscode_variable },
+		["@parameter"] = { fg = colors.__vscode_diff_text_foreground },
 		["@method"] = { link = "@function" },
 		["@method.call"] = { link = "@function.call" },
 		["@field"] = { fg = colors.__vscode_diff_text_foreground },
