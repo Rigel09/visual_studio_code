@@ -1,4 +1,5 @@
 return {
+	background_type = "dark",
 	__vscode_foreground = "#CCCCCC",
 	__vscode_conditional = "#569CD6",
 	__vscode_background = "#1E1E1E",

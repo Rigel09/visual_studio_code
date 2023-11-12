@@ -1,5 +1,6 @@
 return {
-	__vscode_conditional = "B67496",
+	__vscode_conditional = "#B67496",
+	background_type = "dark",
 	__vscode_foreground = "#CCCCCC",
 	__vscode_background = "#1E1E1E",
 	__vscode_local_background = "#252526",
