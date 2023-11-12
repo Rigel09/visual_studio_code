@@ -54,7 +54,7 @@ function M.get_highlight(conf, colors)
 		["@operator"] = { fg = colors.__vscode_variable },
 		["@keyword"] = { fg = colors.__vscode_keyword },
 		["@exception"] = { fg = colors.__vscode_keyword },
-		["@variable"] = { fg = colors.__vscode_variable },
+		["@variable"] = { fg = colors.__vscode_diff_text_foreground },
 		["@variable.builtin"] = { fg = colors.__vscode_keyword },
 		["@type"] = { fg = colors.__vscode_type },
 		["@type.definition"] = { fg = colors.__vscode_type },
